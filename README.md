@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on Team International
-- 🌱 I’m currently learning advanced typescript
-- 👯 I’m looking to collaborate on Solidity Projects
-- ⚡ Fun fact: I'm a big fan of Racing Club
+- 🔭 I'm currently working at Team International as a software engineer, where I'm responsible for building and maintaining high-quality software applications.
+- 🌱 I'm constantly learning and improving my skills, and I'm currently focusing on mastering advanced TypeScript concepts to create more efficient and scalable applications.
+- 👯 I'm always open to collaborating on exciting new projects, especially those related to Typescripty development.
+- ⚡ Fun fact: I'm a huge fan of Racing Club, and I never miss a game. When I'm not working, you can usually find me cheering for my favorite team or exploring new technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julianlionti) 
